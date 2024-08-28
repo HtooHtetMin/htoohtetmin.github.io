@@ -238,13 +238,13 @@ a:hover
     left: 0;
 
     width: 100%;
-    height: 100%;
+    height: 50%;
 
     -webkit-transition: opacity 1s ease;
          -o-transition: opacity 1s ease;
             transition: opacity 1s ease;
 
-    background: url(../img/favicon.png);
+    background: url(../img/canvetest.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
