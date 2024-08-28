@@ -238,7 +238,11 @@ a:hover
     left: 0;
 
     width: 100%;
+<<<<<<< HEAD
     height: 50%;
+=======
+    height: 100%;
+>>>>>>> parent of 72a4855 (editheight)
 
     -webkit-transition: opacity 1s ease;
          -o-transition: opacity 1s ease;
