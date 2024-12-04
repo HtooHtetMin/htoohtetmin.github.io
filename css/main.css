@@ -546,6 +546,34 @@ a:hover
 /** 7. Content Area --> Service
 *******************************************************************/
 
+#skills {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ddd;
+}
+
+#skills .headline {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.skills-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills-list ul li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+.skills-list ul li strong {
+    color: #000;
+}
+
+
 #service .services-list
 {
     margin-bottom: 0;
